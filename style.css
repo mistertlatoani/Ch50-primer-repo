@@ -1,0 +1,20 @@
+
+h1 {
+    color:3449BD
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* estilo de titulo h2*/
+h2 {
+    color:A71FA4 
+}
+/* selector de clases */
+.color-personalizado {
+    color: A71FA4;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 24px;
+}
+/*selector de id */
+#texto-saludo {
+color: tomato;
+}
